@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: grey;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+
+}
+
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width:50px;
+}
+
+.container {
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+    background-color: red;
+}
+
+.price {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.discount {
+    text-decoration: line-through
+}
