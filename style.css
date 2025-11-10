@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.user-con {
+  width: fit-content;
+  margin: 50px 20px;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 40px;
+  padding: 30px;
+  gap: 20px;
+}
+
+.name {
+  font-size: 44px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.email {
+  font-size: 30px;
+  color: #c13333;
+  margin-bottom: 5px;
+}
+
+.password {
+  font-size: 24px;
+  color: #2354cf;
+  margin-bottom: 15px;
+  margin: 10px;
+}
+
+.user-card {
+  margin: 20px;
+  border: 3px solid #9117b9;
+}
