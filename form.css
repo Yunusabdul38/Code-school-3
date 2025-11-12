@@ -74,3 +74,26 @@ button {
 button:hover {
   background: #0056b3;
 }
+
+span {
+  color: red;
+  font-size: 14px;
+  margin: 5px 0 10px 0;
+  display: block;
+}
+
+#msg-err {
+  display: none;
+}
+
+#email-err {
+  display: none;
+}
+
+#name-err {
+  display: none;
+}
+
+.show {
+  display: none;
+}
