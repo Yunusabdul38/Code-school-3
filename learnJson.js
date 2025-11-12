@@ -20,6 +20,8 @@ const y = {
 
 // console.log(data);
 
+// https://api.weatherapi.com/v1/current.json?key=04126511178345da85770845251111&q=${name.value}
+
 fetch("https://dummyjson.com/users")
   .then((response) => response.json())
   .then((data) => {
