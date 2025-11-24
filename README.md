@@ -6,3 +6,4 @@
 3. Nuelo - Frontend and backend dev
 4. David - Shallow
 5. Adams - best in maths
+6. Daniel- her majesty
