@@ -3,3 +3,5 @@
 ## revision class attendance 24-11-2025
 
 1. Nuelo - Frontend and backend dev
+
+2. Paul Gaiya- Coding Student.
