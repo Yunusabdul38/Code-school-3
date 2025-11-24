@@ -7,3 +7,7 @@
 4. David - Shallow
 5. Adams - best in maths
 6. Daniel- her majesty
+   <<<<<<< HEAD
+7. # Daniel- her majesty
+8. Paul Gaiya- Coding student.
+   > > > > > > > 44ce888fd0113e75985d16d91e541a663389a9ca
